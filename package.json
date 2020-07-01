@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/tayoogunbiyi/dsa-app#readme",
   "dependencies": {
+    "browserify": "^16.5.1",
     "parcel": "*",
     "prando": "^5.1.2"
   },

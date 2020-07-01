@@ -7,7 +7,7 @@
   background-color: white;
   padding-top: 15px;
 }
-.first-p {
+/* .first-p {
   color: rgb(64, 64, 64);
   display: block;
   font-family: Interstate, Arial, Helvetica, sans-serif;
@@ -26,7 +26,7 @@
   overflow-wrap: break-word;
   text-size-adjust: 100%;
   width: 1168px;
-}
+} */
 .app {
   background-color: #f4f4f4;
 }
@@ -40,6 +40,8 @@ h2,
 }
 
 .block-content {
+  line-height: 1.5em;
+  padding: 100px;
   color: rgb(64, 64, 64);
   display: block;
   font-family: Interstate, Arial, Helvetica, sans-serif;
@@ -48,7 +50,11 @@ h2,
   line-height: 24px;
   overflow-wrap: break-word;
   text-size-adjust: 100%;
-  width: ;
+  margin: auto;
+  width: 50%;
+  padding: 100px;
+  font-size: large;
+  font-family: "Merriweather", serif;
 }
 .center-container {
   height: 750px;
@@ -61,6 +67,7 @@ h2,
   font-size: 32px;
   background-color: #151946;
   text-align: center;
+  color: white;
 }
 
 li {
