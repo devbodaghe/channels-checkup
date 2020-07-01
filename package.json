@@ -10,17 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tayoogunbiyi/dsa-app.git"
+    "url": "git+https://github.com/devbodaghe/channels-checkup"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tayoogunbiyi/dsa-app/issues"
+    "url": "https://github.com/devbodaghe/channels-checkup/issues"
   },
-  "homepage": "https://github.com/tayoogunbiyi/dsa-app#readme",
+  "homepage": "https://github.com/devbodaghe/channels-checkup",
   "dependencies": {
-    "browserify": "^16.5.1",
     "parcel": "*",
     "prando": "^5.1.2"
   },

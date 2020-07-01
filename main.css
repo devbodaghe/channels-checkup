@@ -55,6 +55,7 @@ h2,
   padding: 100px;
   font-size: large;
   font-family: "Merriweather", serif;
+  padding-bottom: 0px;
 }
 .center-container {
   height: 750px;
